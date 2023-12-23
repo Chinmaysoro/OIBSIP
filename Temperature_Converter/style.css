@@ -124,7 +124,7 @@ button:hover{
   }
 
   .temp-selection > select{
-    width: 38%;
+    min-width: 36%;
   }
   button{
     margin-top: 20px;
