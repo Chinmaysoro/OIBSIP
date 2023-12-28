@@ -64,7 +64,7 @@ body{
   outline: none;
   text-align: center;
   background-color: #e9e9ed;
-  border: 1px solid black;
+  border: 1px solid #2980b9;
   border-radius: 7px;
 }
 /* Input box designed. */
@@ -93,10 +93,12 @@ button{
   padding: 10px;
   border-radius: 20px;
   cursor: pointer;
+  border: 2px solid #2980b9;
 }
 /* Button designed. */
 
 button:hover{
+  border: 2px solid #2d3436;
   background-color: #2980b9;
   color: #ffffff;
 }
